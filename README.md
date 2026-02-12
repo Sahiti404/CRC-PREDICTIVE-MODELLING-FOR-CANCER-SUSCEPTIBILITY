@@ -7,7 +7,7 @@ This project is a healthcare-focused web application for the early prediction of
 
 This project is a healthcare-focused full-stack application for the **early prediction of sporadic Colorectal Cancer (CRC) risk** using a biologically grounded stochastic mathematical model.
 
-Unlike traditional screening tools that detect cancer only after a tumor forms, this system is designed to **predict future CRC susceptibility 5–10 years in advance** by modeling the sequential accumulation of somatic mutations in three key driver genes:
+Unlike traditional screening tools that detect cancer only after a tumor forms, this system is designed to **predict future CRC susceptibility 5–10 years in advance** for especially the people who are not yet diagnosed with the Colorectal Cancer by modeling the sequential accumulation of somatic mutations in three key driver genes:
 
 * **APC**
 * **KRAS**
